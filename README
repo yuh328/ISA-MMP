@@ -1,0 +1,9 @@
+Group Member: Yuanyuan Huang, Chong Gu, Dan Mu
+
+Instruction: Open ModelSim, create a project and give a name such as 'cse141lab', then add the file 'ALU.sv', 'Ctrl.sv', 'data_mem.sv', 'InstROM.sv', 'LUT.sv', 'PC.sv', 'reg_file.sv', 'TopLevel.sv', 'TopLevel_tb.sv', to the project and compile all files. Make sure the txt file, named 'machine_code', is in the same folder of your project so that it can load the instructions for this program. 'TopLevel_tb.sv' is the same as the test bench that is given, we just change the name of some variables to match our isa. Now, Simulating the work with 'TopLevel_tb.sv' and run it, you will see the correct result on transcript.
+
+File description:
+'assembler.ipynb' -- for transfer assembly to machine code
+'cse141l.txt' -- assembly code for this program
+'machine_code.txt'-- machine code for this program
+Folder 'Graph' contains the graph of each module of our ISA

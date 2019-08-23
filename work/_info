@@ -1,0 +1,233 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modelsim17
+vALU
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1560290249
+!i10b 1
+!s100 3H]kFiAF>?_BDPBj=lLla0
+I8@e@fdVWog2bl5LMeOz1H3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ALU_sv_unit
+S1
+Z3 dC:/Users/yuh328/Desktop/cse141lProject
+Z4 w1560289738
+8C:/Users/yuh328/Desktop/cse141lProject/ALU.sv
+FC:/Users/yuh328/Desktop/cse141lProject/ALU.sv
+L0 1
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1560290249.000000
+!s107 C:/Users/yuh328/Desktop/cse141lProject/ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/yuh328/Desktop/cse141lProject/ALU.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@a@l@u
+vCtrl
+R0
+R1
+!i10b 1
+!s100 OkYbzA[bmQab2ORoJTTRM2
+IlP7:1T7E^e2l:b63Q^n3P2
+R2
+!s105 Ctrl_sv_unit
+S1
+R3
+R4
+8C:/Users/yuh328/Desktop/cse141lProject/Ctrl.sv
+FC:/Users/yuh328/Desktop/cse141lProject/Ctrl.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/yuh328/Desktop/cse141lProject/Ctrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/yuh328/Desktop/cse141lProject/Ctrl.sv|
+!i113 1
+R7
+R8
+n@ctrl
+vdata_mem
+R0
+R1
+!i10b 1
+!s100 a]_l6bcBFeP>2EgTbjRUF3
+I05AEm?9VCo4:;K=UU:K8>0
+R2
+!s105 data_mem_sv_unit
+S1
+R3
+Z9 w1560289739
+8C:/Users/yuh328/Desktop/cse141lProject/data_mem.sv
+FC:/Users/yuh328/Desktop/cse141lProject/data_mem.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/yuh328/Desktop/cse141lProject/data_mem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/yuh328/Desktop/cse141lProject/data_mem.sv|
+!i113 1
+R7
+R8
+vInstROM
+R0
+R1
+!i10b 1
+!s100 H3bno?X=@i86QUij45Um61
+Ib3mZ<6OIL?nFJhKajHSeH2
+R2
+!s105 InstROM_sv_unit
+S1
+R3
+R9
+8C:/Users/yuh328/Desktop/cse141lProject/InstROM.sv
+FC:/Users/yuh328/Desktop/cse141lProject/InstROM.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/yuh328/Desktop/cse141lProject/InstROM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/yuh328/Desktop/cse141lProject/InstROM.sv|
+!i113 1
+R7
+R8
+n@inst@r@o@m
+vLUT
+R0
+R1
+!i10b 1
+!s100 X0D2>]i[g?KH9Hoia=CRn1
+IZHhIm^IFIb107BT<>Wi3=2
+R2
+!s105 LUT_sv_unit
+S1
+R3
+R9
+8C:/Users/yuh328/Desktop/cse141lProject/LUT.sv
+FC:/Users/yuh328/Desktop/cse141lProject/LUT.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/yuh328/Desktop/cse141lProject/LUT.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/yuh328/Desktop/cse141lProject/LUT.sv|
+!i113 1
+R7
+R8
+n@l@u@t
+vPgmCtr
+R0
+R1
+!i10b 1
+!s100 zKXXz^3M?[FARaCX^QmDh0
+IQ2mOU1Qo9<d6[N8XUFbdO0
+R2
+!s105 PC_sv_unit
+S1
+R3
+R4
+8C:/Users/yuh328/Desktop/cse141lProject/PC.sv
+FC:/Users/yuh328/Desktop/cse141lProject/PC.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/yuh328/Desktop/cse141lProject/PC.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/yuh328/Desktop/cse141lProject/PC.sv|
+!i113 1
+R7
+R8
+n@pgm@ctr
+vreg_file
+R0
+R1
+!i10b 1
+!s100 7:hS4WYVMJ84OMd@mo4nC3
+I;[ncWAQj:mFOkNP^iDCcQ1
+R2
+!s105 reg_file_sv_unit
+S1
+R3
+R9
+8C:/Users/yuh328/Desktop/cse141lProject/reg_file.sv
+FC:/Users/yuh328/Desktop/cse141lProject/reg_file.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/yuh328/Desktop/cse141lProject/reg_file.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/yuh328/Desktop/cse141lProject/reg_file.sv|
+!i113 1
+R7
+R8
+vTopLevel
+R0
+R1
+!i10b 1
+!s100 09ca^<8^BkEkB[7d@MSW?1
+IZz>8]`fBJMUCA4Z2?nlW@0
+R2
+!s105 TopLevel_sv_unit
+S1
+R3
+R4
+8C:/Users/yuh328/Desktop/cse141lProject/TopLevel.sv
+FC:/Users/yuh328/Desktop/cse141lProject/TopLevel.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/yuh328/Desktop/cse141lProject/TopLevel.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/yuh328/Desktop/cse141lProject/TopLevel.sv|
+!i113 1
+R7
+R8
+n@top@level
+vTopLevel_tb
+R0
+R1
+!i10b 1
+!s100 JPZb36fSeU[EPK=oEATd02
+I5[XHN:f]je`h>?2m>aO?n0
+R2
+!s105 TopLevel_tb_sv_unit
+S1
+R3
+R9
+8C:/Users/yuh328/Desktop/cse141lProject/TopLevel_tb.sv
+FC:/Users/yuh328/Desktop/cse141lProject/TopLevel_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/yuh328/Desktop/cse141lProject/TopLevel_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/yuh328/Desktop/cse141lProject/TopLevel_tb.sv|
+!i113 1
+R7
+R8
+n@top@level_tb
